@@ -16,5 +16,3 @@ Copy the ``.config`` file from the Git repo into the location where you have
 unpacked Buildroot, then run the ncurses configuration program::
 
     make nconfig
-
-

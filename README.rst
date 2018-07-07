@@ -1,6 +1,6 @@
-===============================
+=======================================
 Large-scale Computer Reuse Suite (LCRS)
-===============================
+=======================================
 
 This is the embedded component of LCRS, a Linux kernel with an embedded server written in Python, using HTTP.
 

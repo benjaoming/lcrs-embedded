@@ -16,6 +16,6 @@ Contents
    :maxdepth: 1
 
    installation
-   contributing
    dev/index
+   contributing
    changelog
